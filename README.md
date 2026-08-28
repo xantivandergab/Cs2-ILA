@@ -22,9 +22,6 @@ This is a python program that helps in checking the total price of one or multip
 Enter product: Coke
 Enter price: 20.00
 
-Enter product: Pepsi
-Enter price: 20.00
-
 Products: Coke, Pepsi
 Total price of products: 40.00
 
