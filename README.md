@@ -30,4 +30,5 @@ Total price of products: 40.00
 - Student 1: Vander Gil S. Concepcion
 - Student 2: Gabriel Nico B. Udtohan
 - Student 3: Xanti Manuel C. Matira
+  
   JASMINE
