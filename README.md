@@ -18,7 +18,6 @@ This is a python program that helps in checking the total price of one or multip
 1. Product name
 2. Product price
 
-
 ## Example Output
 Enter product: Coke
 Enter price: 20.00
@@ -27,12 +26,11 @@ Enter product: Pepsi
 Enter price: 20.00
 
 Products: Coke, Pepsi
-
 Total price of products: 40.00
 
 ## Author
-- Student 1: Vander Gil S. Concepcion
-- Student 2: Gabriel Nico B. Udtohan
-- Student 3: Xanti Manuel C. Matira
+- Student 1: Vander Gil S. Concepcion (entered the project description, the initial step-by-step process on how to run the program, inputs needed, and example output)
+- Student 2: Xanti Manuel C. Matira (no contributions, as he is on a trip to Manila)
+- Student 3: Gabriel Nico B. Udtohan (entered the features, checked for mistakes, and did finalization of the whole)
   
   JASMINE
