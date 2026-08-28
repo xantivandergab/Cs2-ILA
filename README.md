@@ -3,12 +3,16 @@
 ## Project Description
 This is a python program that helps in checking the total price of one or multiple products.
 
+## Features
+- Enter name of product/s and price/s
+- Calculate total price
+- Show the list of products that were input by user and also the total price
+
 ## How to run the program
-1. Download and install Python, ensuring you check the box that says "Add python.exe to PATH" during setup.
-2. Open your IDE of choice and create a new plain text file.
-3. Write your code and save the file with a .py extension at the end of the name
-4. Open your computer's built-in Terminal (Mac/Linux) or Command Prompt (Windows).
-5. Navigate to your file's location using the cd command, type python test.py, and hit Enter to run it.
+1. Make sure you have a Python compiler with IDE (to ensure for the code to work).
+2. Copy the code and paste it on your compiler.
+3. Click the button that makes the code run or click F5(does not apply to all IDE's, ex. VSCode).
+4. Follow the instructions shown in entering products and prices(to have the expected output, which are the list of products and total price)
 
 ## Inputs Needed
 1. Product name
