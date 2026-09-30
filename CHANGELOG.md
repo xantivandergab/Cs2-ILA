@@ -1,13 +1,14 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## - 2026-09-30
+## - 2026-08-28
 ### Added
-- User profile pictures feature.
-- Dark mode toggle in settings.
+- Added ReadMe File
 
-### Fixed
-- Resolved a crash when logging out on mobile devices.
+## - 2026-09-20
+### Added
+- Added Project Proposal
 
-## - 2026-08-15
-- Initial production release.
+## - 2026-09-30
+### Added 
+- Added ChangeLog file
