@@ -27,7 +27,7 @@ Total price of products: 40.00
 
 ## Author
 - Student 1: Vander Gil S. Concepcion (entered the project description, the initial step-by-step process on how to run the program, inputs needed, and example output)
-- Student 2: Xanti Manuel C. Matira (Did the changelog)
+- Student 2: Xanti Manuel C. Matira (did the changelog, fixed the readme file)
 - Student 3: Gabriel Nico B. Udtohan (entered the features, checked for mistakes, and did finalization of the whole)
   
   JASMINE
