@@ -1,4 +1,4 @@
-# Total Pricing System
+# Multi-Item Price Tally
 
 ## Project Description
 This is a python program that helps in checking the total price of one or multiple products.
